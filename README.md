@@ -33,4 +33,4 @@ básicas y ejecutar la aplicación en tu navegador:
 
 Una vez ejecutados los scripts anteriores se podrá probar la app desde [http://localhost:3000](http://localhost:3000) en el navegador
 
-> + **NOTA:**  Enlace para visualizar y probar la app en producción sin tener que hacerlo en local: [https://brave-bose-260296.netlify.app/] https://brave-bose-260296.netlify.app/
+> + **NOTA:**  Enlace para visualizar y probar la app en producción sin tener que hacerlo en local: [https://brave-bose-260296.netlify.app/] (https://brave-bose-260296.netlify.app/)
